@@ -42,7 +42,7 @@ setup(
         'scipy == 1.0.0',
         'scikit-learn == 0.14.0',
         'joblib == 0.12',
-        'decorator == 3.0.0',
+        'decorator == 3.3.1',
         'resampy == 0.2.2',
         'numba == 0.43.0',
         'soundfile == 0.9.0',
