@@ -59,5 +59,5 @@ setup(
                   'pytest',
                   'contextlib2'],
         'display': ['matplotlib >= 1.5'],
-    }
-)
+    },
+    zip_safe=False)
